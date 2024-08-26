@@ -1,4 +1,4 @@
-module urlfetcher
+module github.com/ahmetburakakay/urlfetcher
 
 go 1.22.6
 
